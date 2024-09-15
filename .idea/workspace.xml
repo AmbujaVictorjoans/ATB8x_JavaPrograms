@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e17299-1479-42c6-9c9c-338ea72b4dee" name="Changes" comment="Initial Push to GIT">
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_06092024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_06092024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_06092024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_06092024/Lab007.java" afterDir="false" />
+    <list default="true" id="61e17299-1479-42c6-9c9c-338ea72b4dee" name="Changes" comment="Add the Files to GIT">
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_09092024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_09092024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_09092024/Lab010.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,17 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab004.executor": "Run",
-    "Application.Lab005.executor": "Run",
-    "Application.Lab006.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lab007">
+}</component>
+  <component name="RunManager" selected="Application.Lab010">
     <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="September.Ex_06092024.Lab004" />
       <module name="ATB8x_JavaPrograms" />
@@ -112,8 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.Ex_09092024.Lab010" />
+      <module name="ATB8x_JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="September.Ex_09092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab010" />
         <item itemvalue="Application.Lab007" />
         <item itemvalue="Application.Lab006" />
         <item itemvalue="Application.Lab005" />
@@ -138,11 +152,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725820951526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add the Files to GIT">
+      <option name="closed" value="true" />
+      <created>1725953181214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725953181214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Push to GIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Push to GIT" />
+    <MESSAGE value="Add the Files to GIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the Files to GIT" />
   </component>
 </project>
