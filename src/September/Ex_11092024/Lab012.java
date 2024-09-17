@@ -1,6 +1,4 @@
-package September.Ex_13092024;
-
-import java.sql.SQLOutput;
+package September.Ex_11092024;
 
 public class Lab012 {
     public static void main(String[] args) {
