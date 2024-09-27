@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e17299-1479-42c6-9c9c-338ea72b4dee" name="Changes" comment="Add the Files to GIT - 11th September">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_13092024/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab027_AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab028_ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab029_QnA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab030_UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab034_Compound_Assignment_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab035_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab036_LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_16092024/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_16thSeptember.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,21 +82,37 @@
     "Application.Lab023.executor": "Run",
     "Application.Lab024.executor": "Run",
     "Application.Lab025.executor": "Run",
+    "Application.Lab027_AssignmentOperator.executor": "Run",
+    "Application.Lab028_ArithmeticOperator.executor": "Run",
+    "Application.Lab029_QnA.executor": "Run",
+    "Application.Lab030_UnaryOperator.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab034_Compound_Assignment_Operator.executor": "Run",
+    "Application.Lab035_Relational_Operators.executor": "Run",
+    "Application.Lab036_LogicalOperator.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
     "Application.Task01.executor": "Run",
     "Application.Task02.executor": "Run",
+    "Application.Task_16thSeptember.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task02">
-    <configuration name="Lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.Ex_13092024.Lab022" />
+  <component name="RunManager" selected="Application.Task_16thSeptember">
+    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.Ex_16092024.Lab041" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.Ex_13092024.*" />
+          <option name="PATTERN" value="September.Ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.Ex_13092024.Lab023" />
+    <configuration name="Lab042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.Ex_16092024.Lab042" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.Ex_13092024.*" />
+          <option name="PATTERN" value="September.Ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.Ex_13092024.Lab024" />
+    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.Ex_16092024.Lab043" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.Ex_13092024.*" />
+          <option name="PATTERN" value="September.Ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.Ex_13092024.Lab025" />
+    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.Ex_16092024.Lab044" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.Ex_13092024.*" />
+          <option name="PATTERN" value="September.Ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.Ex_13092024.Task02" />
+    <configuration name="Task_16thSeptember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_16thSeptember" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.Ex_13092024.*" />
+          <option name="PATTERN" value="Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Lab025" />
-        <item itemvalue="Application.Lab024" />
-        <item itemvalue="Application.Lab023" />
-        <item itemvalue="Application.Lab022" />
+        <item itemvalue="Application.Task_16thSeptember" />
+        <item itemvalue="Application.Lab044" />
+        <item itemvalue="Application.Lab043" />
+        <item itemvalue="Application.Lab042" />
+        <item itemvalue="Application.Lab041" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726543796755</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add the Files to GIT - 11th September">
+      <option name="closed" value="true" />
+      <created>1727205634192</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727205634192</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -218,5 +247,21 @@
     <MESSAGE value="Add the Files to GIT" />
     <MESSAGE value="Add the Files to GIT - 11th September" />
     <option name="LAST_COMMIT_MESSAGE" value="Add the Files to GIT - 11th September" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/September/Ex_16092024/Lab034_Compound_Assignment_Operator.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/September/Ex_16092024/Lab042.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
