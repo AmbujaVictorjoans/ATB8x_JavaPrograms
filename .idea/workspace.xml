@@ -4,25 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e17299-1479-42c6-9c9c-338ea72b4dee" name="Changes" comment="Add the Files to GIT - 16th September">
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/Ex_18092024/Lab057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_01_Narrowing_18thSeptember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_01_Widening_18thSeptember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_02_18thSeptember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_03_18thSeptember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_04_18thSeptember.java" afterDir="false" />
+    <list default="true" id="61e17299-1479-42c6-9c9c-338ea72b4dee" name="Changes" comment="Add the Files to GIT - 18th September">
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task06_20thSept_TerneryOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task07_20thSep_TernaryOp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task08_20thSept_Condition1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task09_20thSept_Condition2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -114,8 +114,25 @@
     "Application.Lab055.executor": "Run",
     "Application.Lab056.executor": "Run",
     "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
     "Application.Task01.executor": "Run",
     "Application.Task02.executor": "Run",
+    "Application.Task06_20thSept_TerneryOp1.executor": "Run",
+    "Application.Task07_20thSep_TernaryOp2.executor": "Run",
+    "Application.Task08_20thSept_Condition1.executor": "Run",
+    "Application.Task09_20thSept_Condition2.executor": "Run",
     "Application.Task_01_18thSeptember.executor": "Run",
     "Application.Task_01_Narrowing_18thSeptember.executor": "Run",
     "Application.Task_01_Widening_18thSeptember.executor": "Run",
@@ -129,9 +146,22 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_01_Widening_18thSeptember">
-    <configuration name="Task_01_Narrowing_18thSeptember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Task_01_Narrowing_18thSeptember" />
+  <component name="RunManager" selected="Application.Task09_20thSept_Condition2">
+    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.Ex_20092024_IfElse1.Lab071" />
+      <module name="ATB8x_JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="September.Ex_20092024_IfElse1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task06_20thSept_TerneryOp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task06_20thSept_TerneryOp1" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_01_Widening_18thSeptember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Task_01_Widening_18thSeptember" />
+    <configuration name="Task07_20thSep_TernaryOp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task07_20thSep_TernaryOp2" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_02_18thSeptember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Task_02_18thSeptember" />
+    <configuration name="Task08_20thSept_Condition1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task08_20thSept_Condition1" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -169,21 +199,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_03_18thSeptember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Task_03_18thSeptember" />
-      <module name="ATB8x_JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_04_18thSeptember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Task_04_18thSeptember" />
+    <configuration name="Task09_20thSept_Condition2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task09_20thSept_Condition2" />
       <module name="ATB8x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -197,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_01_Widening_18thSeptember" />
-        <item itemvalue="Application.Task_01_Narrowing_18thSeptember" />
-        <item itemvalue="Application.Task_04_18thSeptember" />
-        <item itemvalue="Application.Task_03_18thSeptember" />
-        <item itemvalue="Application.Task_02_18thSeptember" />
+        <item itemvalue="Application.Task09_20thSept_Condition2" />
+        <item itemvalue="Application.Task08_20thSept_Condition1" />
+        <item itemvalue="Application.Task07_20thSep_TernaryOp2" />
+        <item itemvalue="Application.Task06_20thSept_TerneryOp1" />
+        <item itemvalue="Application.Lab071" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727416713873</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add the Files to GIT - 18th September">
+      <option name="closed" value="true" />
+      <created>1727545597832</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727545597832</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -278,7 +303,8 @@
     <MESSAGE value="Add the Files to GIT" />
     <MESSAGE value="Add the Files to GIT - 11th September" />
     <MESSAGE value="Add the Files to GIT - 16th September" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the Files to GIT - 16th September" />
+    <MESSAGE value="Add the Files to GIT - 18th September" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the Files to GIT - 18th September" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -297,6 +323,21 @@
           <url>file://$PROJECT_DIR$/src/Tasks/Task_01_Narrowing_18thSeptember.java</url>
           <line>2</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab060.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/September/Ex_20092024_IfElse1/Lab070.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tasks/Task06_20thSept_TerneryOp1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
